@@ -5,7 +5,7 @@ I am a Monash University student with a profound interest in cybersecurity and I
 
 ## Objective
 
-My journey in cybersecurity has lead me to venture into the Security Operations Center (SOC) sector of cybersecurity, with a particular interest in blue teaming.
+My journey in cybersecurity has lead me to venture into the Security Operations Center (SOC) sector of cybersecurity, with a particular interest in blue teaming and forensics analysis.
 
 ## Skills
 
